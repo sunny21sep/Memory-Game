@@ -7,7 +7,7 @@ Memory Game is a web-based card-matching game designed to enhance memory and con
 
 ## ✨ Features
 - 🃏 Card flipping animation with match logic
-- ⏱️ Move and timer tracking
+- ⏱️ Move tracking
 - 🔁 Restart and replay functionality
 - 💫 Modern UI and smooth transitions
 - 📱 Fully responsive on all devices
